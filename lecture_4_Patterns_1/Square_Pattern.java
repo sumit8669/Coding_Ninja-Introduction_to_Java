@@ -1,4 +1,4 @@
-package com.ninja.lecture_4;
+package com.ninja.lecture_4_Patterns_1;
 
 import java.util.Scanner;
 
