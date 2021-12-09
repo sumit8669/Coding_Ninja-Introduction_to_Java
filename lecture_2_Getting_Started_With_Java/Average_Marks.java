@@ -1,4 +1,4 @@
-package com.ninja.lecture_2;
+package com.ninja.lecture_2_Getting_Started_With_Java;
 import java.util.Scanner;
 public class Average_Marks {
 

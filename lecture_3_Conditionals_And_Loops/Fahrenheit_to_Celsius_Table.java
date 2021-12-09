@@ -1,4 +1,4 @@
-package com.ninja.lecture_3;
+package com.ninja.lecture_3_Conditionals_And_Loops;
 
 import java.util.Scanner;
 
