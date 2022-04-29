@@ -1,6 +1,6 @@
 package com.ninja.lecture_8_Arrays.Assignment;
 
-public class Shot_0_1 {
+public class Sort_0_1 {
     public static void sortZeroesAndOne(int[] arr) {
        int nextZero=0;
         for (int i = 0; i <arr.length ; i++) {
